@@ -43,6 +43,10 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>   
+  </a> 
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="GIT"
+      width="40" height="40" /> </a>   
  </p>
 
 <br>
