@@ -9,7 +9,7 @@
       alt="Ruben Ossorio" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+<p><img align="right" src="https://github.com/Ossan27/Ossan27/blob/main/src/images/animation_500_kxa883sd.gif" alt="" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
